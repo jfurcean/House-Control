@@ -1,0 +1,4 @@
+<modules> 
+  <!--<module name='Living Room' house=('a','b','c',...,'p') unit=('1','2',...,'16') type=('light','appliance','button','switch')/> --> 
+  <module name='Living Room' house='a' unit='1' type='light'/>
+</modules>
