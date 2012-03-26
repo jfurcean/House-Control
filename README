@@ -1,2 +1,6 @@
 House Control
-Web Application / Arduino Project for controlling x10 modules
+
+Arduino/x10 Home Automation over WiFi using a LAMP stack, arduino, and x10 modules
+
+Instructions on setting this project up are over at TheNewTech.tv:
+http://thenewtech.tv/community/arduinox10-home-automation-over-wifi
