@@ -106,6 +106,8 @@ function sendx10Command($house, $unit, $action)
 
   //
   // Default Settings for writing to serial
+  // Windows server user "COM1","COM2",....etc
+  // instead of "/dev/ttyUSB0"
   //
   $serialPath = "/dev/ttyUSB0"; 
   $houseVal = $house;
