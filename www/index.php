@@ -1,7 +1,7 @@
 <?php  
 
 /**
-* Reads the config file and grabs the x10 modules for a specific user
+ * Reads the config file and grabs the x10 modules for a specific user
  *
  * @param username $username Username of the current user
  * @return Modules the current user has access too
