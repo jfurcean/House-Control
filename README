@@ -4,3 +4,8 @@ Arduino/x10 Home Automation over WiFi using a LAMP stack, arduino, and x10 modul
 
 Instructions on setting this project up are over at TheNewTech.tv:
 http://thenewtech.tv/community/arduinox10-home-automation-over-wifi
+
+There are some issues with the x10 library and arduino 1.0.1 . 
+
+Some of these issues are addressed on the arduino forums: 
+http://arduino.cc/forum/index.php?topic=108325.0
